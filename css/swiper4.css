@@ -1,0 +1,106 @@
+div.orgin{
+  width: 1339px;
+  height: 404px;
+  border: 1px solid rgb(224, 224, 226);
+  margin: 0 auto;
+  margin-top: 50px;
+  box-sizing: border-box;
+    border-radius: 16px;
+    text-align: center;
+    
+  
+
+
+}
+
+div.orgin>h1{
+  margin-top: 10px;
+  font-family: yekan;
+  font-size: 21px;
+  font-weight: 500;
+  
+}
+
+div.row {
+  height: 320px;
+  
+    width: 1336px;
+    border-left: 1px solid rgb(224, 224, 226);
+    border-right: 1px solid rgb(224, 224, 226);
+    border-bottom: 1px solid rgb(224, 224, 226);
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+   
+    margin-top: 50px;
+    
+  }
+
+  .row-slide {
+    
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  div.row>div.swiper-wrapper>div.swiper-slide>img{
+    width: 86px;
+    height: 86px;
+    margin-right: 20px; cursor: pointer;
+    
+    
+
+  }
+
+  div.row>div.swiper-wrapper{
+    background-color: #fff;
+    width: 1336px;
+  }
+
+  div.row>div.swiper-wrapper>div.swiper-slide>p{
+    color: rgb(25, 191, 211);
+    font-size: 26px;
+    font-weight: 800;
+    font-family: yekan;
+    display: inline-block;
+    position: absolute;
+    right: 120px; cursor: pointer;
+    top: 35px;
+    
+
+  }
+
+  div.row>div.swiper-wrapper>div.swiper-slide{
+    position: relative;
+  }
+
+ div.row>div.swiper-wrapper>div.swiper-slide>span{
+   color: rgb(63, 64, 100); cursor: pointer;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: yekan;
+    display: inline-block;
+    position: absolute;
+    right: 145px;
+    top: 45px;
+    border-bottom: 1px solid rgb(224, 224, 226) ;
+    padding-bottom: 30px;
+    box-sizing: border-box;
+    
+    
+
+ }
+
+ 
+
+   

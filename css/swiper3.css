@@ -1,0 +1,44 @@
+div.logo{
+    width: 1336px;
+    height: 225px;
+    background-color: white;
+    border: 2px
+    solid rgb(240, 240, 241);
+    text-align: center;
+    border-radius:16px;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+
+div.logo>div.swiper-wrapper>div.swiper-slide{
+    width: 145px;
+    height: 120px;
+    margin-top: 25px;
+
+    
+    
+
+}
+
+
+
+div.logo>div.swiper-wrapper>div.swiper-slide>img{
+    width: 110px;
+    height: 110px;
+    border-left: 1px solid rgb(240, 240, 241);
+    background-size: cover;
+    background-position: center;
+    margin-left: 15px;
+   
+    
+    
+    
+}
+
+div.logo>p{
+    color: rgb(12, 12, 12);
+    font-size: 21px;
+    font-family: yekan;
+    font-weight: 400;
+    margin-top: 10px;
+}

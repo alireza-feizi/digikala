@@ -1,0 +1,16 @@
+.img4 {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img4 img {
+  width: 1336px;
+  height: 167px;
+  cursor: pointer;
+  border-bottom-left-radius: 16px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-left-radius: 16px;
+}

@@ -1,0 +1,123 @@
+.footer6 {
+  width: 1636px;
+  height: 225px;
+  margin: 0 auto;
+  margin-top: 25px;
+  border-top: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  position: relative;
+}
+.footer6 .logo-6-1 {
+  width: 109px;
+  height: 109px;
+  border-radius: 8px;
+  position: absolute;
+  cursor: pointer;
+  left: 241px;
+  top: 50px;
+  border: 1px solid rgb(224, 224, 226);
+}
+.footer6 .logo-6-1 img {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.footer6 {
+  width: 1636px;
+  height: 225px;
+  margin: 0 auto;
+  margin-top: 25px;
+  border-top: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  position: relative;
+}
+.footer6 .logo-6-2 {
+  width: 109px;
+  height: 109px;
+  border-radius: 8px;
+  position: absolute;
+  cursor: pointer;
+  left: 120px;
+  top: 50px;
+  border: 1px solid rgb(224, 224, 226);
+}
+.footer6 .logo-6-2 img {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.footer6 {
+  width: 1636px;
+  height: 225px;
+  margin: 0 auto;
+  margin-top: 25px;
+  border-top: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  position: relative;
+}
+.footer6 .logo-6-3 {
+  width: 109px;
+  height: 109px;
+  border-radius: 8px;
+  position: absolute;
+  cursor: pointer;
+  left: 0px;
+  top: 50px;
+  border: 1px solid rgb(224, 224, 226);
+}
+.footer6 .logo-6-3 img {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.footer6 .text-6 h4 {
+  position: absolute;
+  right: 0;
+  top: 38px;
+  font-family: yekan;
+  font-size: 21px;
+  font-weight: 700;
+  color: rgb(98, 102, 109);
+}
+.footer6 .text-6 p.p6-1 {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  color: rgb(129, 133, 139);
+  position: absolute;
+  top: 75px;
+}
+.footer6 .text-6 p.p6-2 {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  color: rgb(129, 133, 139);
+  position: absolute;
+  top: 100px;
+  opacity: 0.5;
+}
+.footer6 .text-6 p.p6-3 {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  color: rgb(129, 133, 139);
+  position: absolute;
+  top: 125px;
+  opacity: 0.1;
+}
+.footer6 .text-6 span {
+  position: absolute;
+  bottom: 45px;
+  cursor: pointer;
+  color: rgb(25, 191, 211);
+  font-family: yekan;
+  font-size: 12px;
+  font-weight: 700;
+}

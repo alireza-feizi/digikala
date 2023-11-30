@@ -1,0 +1,24 @@
+div.two{
+    width: 100%;
+    height: 242px;
+    display: inline-block;
+    
+    text-align: center;
+}
+div.two>div.two2{
+    display: inline-block;
+    width: 100%;
+    height: inherit;
+    
+}
+
+div.two>div.two2>a>img{
+    display: inline-block;
+    border-radius: 16px;
+    box-sizing: border-box;
+    margin-left: 10px;
+
+    width: 660px;
+    height: 264px;
+    margin-bottom: 60px;
+}

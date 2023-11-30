@@ -1,0 +1,113 @@
+.continer-2 {
+  width: 100%;
+  height: 95px;
+  margin-top: 25px;
+}
+.continer-2 .bg-2 {
+  background: linear-gradient(76.02deg, #35a6c8 33.32%, #007295 71.55%),
+    radial-gradient(21.29% 87.33% at 50% 50.67%, #7cf2f6 0, #35a6c8 100%);
+  width: 1336px;
+  height: 87px;
+  margin: auto;
+  border-radius: 15px;
+  position: relative;
+}
+.continer-2 .bg-2 svg {
+  width: 119px;
+  height: 33px;
+  position: absolute;
+  right: 37px;
+  top: 25px;
+}
+.continer-2 .bg-2 .wheel-spinner {
+  width: 270px;
+  height: 63px;
+  border-top-right-radius: 15px;
+  cursor: pointer;
+  border-bottom-right-radius: 15px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0;
+  top: 15px;
+  margin-left: 574px;
+  display: inline-block;
+}
+.continer-2 .bg-2 .wheel-spinner .wheel img {
+  width: 168px;
+  height: 65px;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  position: absolute;
+  left: 0;
+  padding: 3px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.continer-2 .bg-2 .wheel-spinner .wheel p {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  margin-right: 25px;
+  margin-top: 25px;
+  display: inline-block;
+}
+.continer-2 .bg-2 .missions {
+  width: 276px;
+  height: 63px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0;
+  margin-left: 293px;
+  top: 15px;
+  cursor: pointer;
+}
+.continer-2 .bg-2 .missions .mission img {
+  width: 168px;
+  height: 60px;
+  position: absolute;
+  left: 0;
+  padding: 3px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.continer-2 .bg-2 .missions .mission p {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  margin-right: 25px;
+  margin-top: 25px;
+  display: inline-block;
+}
+
+.continer-2 .bg-2 .awards .award {
+  background-color: rgb(255, 255, 255);
+  width: 258px;
+  height: 63px;
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  top: 15px;
+  margin-left: 28px;
+  cursor: pointer;
+  border-top-left-radius: 16px;
+  border-bottom-left-radius: 16px;
+}
+
+.continer-2 .bg-2 .awards .award img {
+  width: 168px;
+  height: 60px;
+  position: absolute;
+  border-top-left-radius: 16px;
+  left: 0;
+  padding: 3px;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.continer-2 .bg-2 .awards .award p {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  margin-right: 25px;
+  margin-top: 25px;
+  display: inline-block;
+}

@@ -1,0 +1,198 @@
+.pink-selection {
+  width: 100%;
+  height: 411px;
+  margin-top: 62px;
+}
+.pink-selection .pink-selection-main {
+  position: relative;
+  height: inherit;
+  width: 1336px;
+  margin: auto;
+  border-radius: 16px;
+  background: rgb(148, 27, 128);
+}
+.pink-selection .pink-selection-main .right {
+  width: 416px;
+  height: 355px;
+  margin-right: 14px;
+  padding-top: 37px;
+  padding-right: 29px;
+  box-sizing: border-box;
+}
+.pink-selection .pink-selection-main .right svg {
+  width: 128px;
+  height: 32px;
+}
+.pink-selection .pink-selection-main .right p {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: yekan;
+  color: rgb(255, 255, 255);
+  margin-top: 7px;
+}
+.pink-selection .pink-selection-main .right img {
+  width: 372px;
+  height: 279px;
+  display: inline-block;
+}
+.pink-selection .pink-selection-main .right .enter2 {
+  width: 105px;
+  height: 37px;
+  margin-top: 15px;
+  background-color: rgb(148, 27, 128);
+  border-radius: 8px;
+  border: 1px solid rgb(255, 255, 255);
+  display: inline-block;
+}
+.pink-selection .pink-selection-main .right .enter2 p {
+  text-align: center;
+  vertical-align: middle;
+}
+.pink-selection .pink-selection-main .right .enter2 p i {
+  width: 16px;
+  height: 16px;
+  margin-right: 7px;
+  margin-bottom: 4px;
+  display: inline-block;
+}
+.left {
+  width: 868px;
+  height: 355px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 8px;
+  margin-top: 17px;
+  margin-left: 13px;
+}
+.left .title p {
+  color: rgb(12, 12, 12);
+  font-size: 16px;
+  font-weight: 700;
+  font-family: yekan;
+  margin-right: 25px;
+  margin-top: 18px;
+}
+.left .title p i {
+  margin-left: 8px;
+  margin-top: 7px;
+  color: rgb(148, 27, 128);
+}
+.left .title .p-2 {
+  color: rgb(148, 27, 128);
+  font-size: 12px;
+  font-weight: 700;
+  font-family: yekan;
+  position: absolute;
+  left: 0;
+  margin-left: 10px;
+  margin-top: 18px;
+  top: 0;
+}
+.left .title .p-2 i {
+  margin-right: 5px;
+  color: rgb(148, 27, 128);
+}
+.left .sell {
+  width: 836px;
+  height: 280px;
+  margin: 0 auto;
+}
+.left .sell .pen img {
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 20px;
+  right: 0;cursor: pointer;
+  margin-right: 11px;
+}
+
+.left .sell .headphone img {
+  width: 116px;
+  height: 116px;cursor: pointer;
+  position: absolute;
+  margin-top: 20px;
+  margin-right: 57px;
+  right: 92px;
+}
+.left .sell .ghorse img {
+  width: 116px;cursor: pointer;
+  height: 116px;
+  margin-right: 74px;
+  position: absolute;
+  margin-top: 20px;
+  right: 232px;
+}
+.left .sell .phone img {
+  margin-right: 98px;
+  width: 116px;cursor: pointer;
+  height: 116px;
+  position: absolute;
+  margin-top: 20px;
+  right: 343px;
+}
+.left .sell .hedphone-white img {
+  margin-right: 130px;
+  width: 116px;cursor: pointer;
+  height: 116px;
+  position: absolute;
+  margin-top: 20px;
+  right: 464px;
+}
+.left .sell .poccoo img {
+  margin-right: 321px;
+  width: 116px;
+  height: 116px;
+  position: absolute;cursor: pointer;
+  margin-top: 20px;
+  right: 410px;
+}
+.left .sell .phone-2 img {
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 172px;
+  right: 0;cursor: pointer;
+  margin-right: 11px;
+}
+.left .sell .chips img {
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 172px;
+  margin-right: 57px;
+  right: 92px;cursor: pointer;
+}
+.left .sell .redmi img {
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 172px;
+  margin-right: 74px;
+  right: 232px;cursor: pointer;
+}
+.left .sell .rob img {
+  margin-right: 98px;
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 172px;cursor: pointer;
+  right: 343px;
+}
+.left .sell .compax img {
+  margin-right: 130px;
+  width: 116px;
+  height: 116px;
+  position: absolute;cursor: pointer;
+  margin-top: 172px;
+  right: 464px;
+}
+.left .sell .sellphone img {
+  margin-right: 321px;
+  width: 116px;
+  height: 116px;
+  position: absolute;
+  margin-top: 172px;
+  right: 410px;cursor: pointer;
+}

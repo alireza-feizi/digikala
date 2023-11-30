@@ -1,0 +1,40 @@
+div.story2{
+    width: 100%;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+}
+div.story2>div{
+    width: auto;
+    display: inline-block;
+    border-radius:50%;
+    margin-right: 70px;
+    margin-top: 26px;
+    margin-left: 30px;
+    
+    
+}
+
+div.story2>div>img{
+    width: 60px;
+    display: block;
+}
+
+div.story2>div>h3{
+    font-family: yekan;
+    font-size: 13px;
+    font-weight: 300;
+    color: rgb(51, 51, 51);
+    margin-top: 12px;
+    
+
+}
+
+div.story2>div>i{
+    width: 60px;
+    height: 60px;
+    background-color: gainsboro;
+    border-radius: 50%;
+    line-height: 60px;
+    font-size: 30px;
+}

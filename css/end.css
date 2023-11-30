@@ -1,0 +1,259 @@
+.end {
+  width: 100%;
+  height: 160px;
+  background-color: rgb(240, 240, 241);
+  position: relative;
+}
+.end-logo-1 {
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  cursor: pointer;
+  right: 95px;
+}
+.end-logo-1 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-2 {
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 306px;
+  cursor: pointer;
+}
+.end-logo-2 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-3 {
+  cursor: pointer;
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 517px;
+}
+.end-logo-3 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-4 {
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 726px;
+}
+.end-logo-4 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-5 {
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 927px;
+  cursor: pointer;
+}
+.end-logo-5 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-6 {
+  width: 210px;
+  cursor: pointer;
+  height: 80px;
+  position: absolute;
+
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 1554px;
+}
+.end-logo-6 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-7 {
+  width: 210px;
+  height: 80px;
+  cursor: pointer;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 1133px;
+}
+.end-logo-7 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-8 {
+  width: 210px;
+  height: 80px;
+  position: absolute;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+  right: 1343px;
+}
+.end-logo-8 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-9 {
+  width: 239.42px;
+  height: 80px;
+  position: absolute;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+  bottom: 0;
+  right: 95px;
+}
+.end-logo-9 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-10 {
+  width: 239.42px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  bottom: 0;
+  cursor: pointer;
+  right: 348px;
+}
+.end-logo-10 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 75px;
+  top: 30px;
+}
+
+.end-logo-11 {
+  width: 239.42px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  cursor: pointer;
+  bottom: 0;
+  right: 578px;
+}
+.end-logo-11 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-12 {
+  width: 239.42px;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  bottom: 0;
+  cursor: pointer;
+  right: 807px;
+}
+.end-logo-12 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-13 {
+  width: 239.42px;
+  cursor: pointer;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  bottom: 0;
+  right: 1035px;
+}
+.end-logo-13 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-14 {
+  width: 239.42px;
+  cursor: pointer;
+  height: 80px;
+  position: absolute;
+  border-left: 1px solid rgb(224, 224, 226);
+  bottom: 0;
+  right: 1288px;
+}
+.end-logo-14 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}
+
+.end-logo-15 {
+  width: 239.42px;
+  height: 80px;
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  right: 1502px;
+}
+.end-logo-15 img {
+  width: 108px;
+  position: absolute;
+  height: 20px;
+  left: 50px;
+  top: 30px;
+}

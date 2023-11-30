@@ -1,0 +1,24 @@
+div.p-middle{
+    width: 100%;
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+div.p-middle>div.p-middle2{
+    width: inherit;
+    height: inherit;
+
+
+}
+
+div.p-middle>div.p-middle2>h1{
+    font-size: 21px;
+    font-weight: 500;
+    color: black;
+    font-family: yekan;
+    margin-top: 30px;
+}
+
+

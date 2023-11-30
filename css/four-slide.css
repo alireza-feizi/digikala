@@ -1,0 +1,15 @@
+.four .four2 {
+  width: 100%;
+  height: 242px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.four img {
+  margin-right: 18px;
+  margin-top: 25px;
+  width: 322px;cursor: pointer;
+  height: 242px;
+  border-radius: 16px;
+  box-sizing: border-box;
+}

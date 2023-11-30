@@ -1,0 +1,130 @@
+.continer {
+  width: 100%;
+  height: 110px;
+  margin-bottom: 10px;
+}
+.continer .bg {
+  width: 1336px;
+  height: 110px;
+  margin: auto;
+  background: linear-gradient(
+      0deg,
+      hsla(0, 0%, 5%, 0.07),
+      hsla(0, 0%, 5%, 0.07)
+    ),
+    linear-gradient(93.39deg, #9dc44f 2.8%, #586e2d 50.49%, #020202 97.21%);
+  border-radius: 15px;
+  position: relative;
+  margin-top: 25px;
+}
+.continer .bg .img img {
+  display: inline-block;
+  width: 66px;
+  height: 62px;
+}
+
+.continer .bg .img {
+  display: inline-block;
+  position: absolute;
+  right: 55px;
+  top: 25px;
+}
+.continer .bg .img .svg {
+  text-align: center;
+  display: inline-block;
+  line-height: 55px;
+}
+.continer .bg .img .svg svg {
+  margin-bottom: 15px;
+  display: inline-block;
+  margin-right: 15px;
+}
+.continer .bg .green {
+  width: 113px;
+  height: 28px;
+  display: inline-block;
+  background-color: rgb(57, 174, 0);
+  border-bottom-right-radius: 9999px;
+  border-top-right-radius: 9999px;
+  border-bottom-left-radius: 9999px;
+  border-top-left-radius: 9999px;
+  margin-top: 20px;
+  margin-right: 20px;
+  position: absolute;
+}
+.continer .bg .green p {
+  position: absolute;
+  font-family: yekan;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  line-height: 25px;
+  font-size: 14px;
+  font-weight: 700;
+  display: inline-block;
+  padding-right: 17px;
+  box-sizing: border-box;
+}
+
+.continer .bg .items {
+  width: 627px;
+  height: 74px;
+  display: inline-block;
+  margin-top: 21px;
+  position: absolute;
+  left: 0;
+  margin-left: 68px;
+}
+.continer .bg .items img {
+  position: absolute;
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.continer .bg .items .p1 {
+  width: 34px;
+  height: 20px;
+  border-bottom-left-radius: 16px;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-right-radius: 16px;
+  background-color: rgb(211, 47, 47);
+  position: absolute;
+  margin-top: 50px;
+  margin-right: -8px;
+  color: rgb(255, 255, 255);
+  padding-right: 7px;
+  padding-top: 3px;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: yekan;
+}
+.items div {
+  width: auto;
+  display: inline-block;
+  margin-right: 75px;
+  margin-bottom: 25px;
+}
+.continer .bg .items .more {
+  width: 130px;
+  height: 51px;
+  background-color: rgb(255, 255, 255);
+  border-bottom-right-radius: 9999px;
+  border-top-right-radius: 9999px;
+  border-bottom-left-radius: 9999px;
+  border-top-left-radius: 9999px;
+  position: absolute;
+  display: inline-block;
+  margin-top: 7px;
+}
+.continer .bg .items .more p {
+  position: absolute;
+  padding-right: 25px;
+  padding-top: 16px;
+  box-sizing: border-box;
+  color: rgb(57, 174, 0);
+  font-family: yekan;
+  font-size: 12px;
+  font-weight: 700;
+}

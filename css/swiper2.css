@@ -1,0 +1,131 @@
+div.swiper2{
+    width:100%;
+    height:350px;
+    
+    padding: 25px;
+    box-sizing: border-box;
+
+}
+
+div.swiper2>div.super{
+    width: 1336px;
+    margin: 0 auto;
+    background-color: #ef4056;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 300px ;
+    border-radius: 16px;
+    border: 3px solid crimson;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div>img{
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-right: 15px;
+    
+    
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div.digi{
+
+    background-color: #ef4056;
+    text-align: center;
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div.digi>div>img{
+    display: inline-block;
+    margin-right: 5px;
+    width: 92px;
+    height: 78px;
+    
+}
+div.swiper2>div.super>div.swiper-wrapper>div.digi>div>a{
+    display: inline-block;
+    font-family: yekan;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div>div.top>span{
+    color: rgb(63, 64, 100);
+    font-size: 16px;
+    font-weight: 700;
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div>div.top>span.dar{
+    display: inline-block;
+    width: 30px;
+    height: 20px;
+    background-color: rgb(211, 47, 47);
+    color: rgb(255, 255, 255);
+    font-family: yekan;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 20px;
+    
+    
+}
+div.swiper2>div.super>div.swiper-wrapper>div>div.bottom>span{
+    display: inline-block;
+    color: rgb(192, 194, 197);
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: line-through;
+    font-family: yekan;
+
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div.last-circle>i{
+    
+    display: inline-block;
+    line-height: 220px;
+    width: 45px;
+    height: 45px;
+    color:rgb(25, 191, 211) ;
+    position: relative;
+    z-index: 2;
+    
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div.last-circle>div.circle{
+    display: inline-block;
+    border: 25px solid rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 50%;
+    outline: 2px solid rgb(25, 191, 211);
+    margin-top: 30px;
+    color: rgb(25, 191, 211);
+    position: absolute;
+    left: 69px;
+    top: 54px;
+    
+    
+}
+
+div.swiper2>div.super>div.swiper-wrapper>div>div.last-circle>p{
+    position: absolute;
+    bottom: 85px;
+    left: 54px;
+    font-family: yekan;
+    color: rgb(63, 64, 100);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+
+   
+
+
+
+
+
+
+

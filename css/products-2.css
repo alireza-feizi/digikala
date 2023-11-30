@@ -1,0 +1,894 @@
+.products-2 {
+  width: 100%;
+  height: 813px;
+  margin-top: 25px;
+}
+.products-2 .product-2 {
+  width: 1336px;
+  height: 836px;
+  margin: auto;
+  border: 1px solid rgb(224, 224, 226);
+  position: relative;
+  border-radius: 16px;
+  text-align: center;
+}
+.products-2 .product-2 .title p {
+  margin-top: 25px;
+  font-size: 21px;
+  font-weight: 500;
+  font-family: yekan;
+}
+.products-2 .product-2 .title p i {
+  color: rgb(239, 64, 86);
+}
+.products-2 .product-2 .item-2-1 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 96px;
+  cursor: pointer;
+  top: 105px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-1 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-1 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-1 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-1 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-2 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 296px;
+  top: 105px;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-2 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-2 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-2 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-2 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-3 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  cursor: pointer;
+  right: 499px;
+  top: 105px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-3 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-3 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-3 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-3 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+.products-2 .product-2 .item-2-4 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  cursor: pointer;
+  right: 701px;
+  top: 105px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-4 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-4 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-4 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-4 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-5 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 905px;
+  top: 105px;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-5 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-5 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-5 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-5 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-6 {
+  width: 201px;
+  cursor: pointer;
+  height: 242px;
+  position: absolute;
+  right: 1109px;
+  top: 105px;
+
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-6 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-6 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-6 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-6 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-7 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  cursor: pointer;
+  right: 96px;
+  top: 350px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-7 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-7 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-7 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-7 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-8 {
+  width: 201px;
+  cursor: pointer;
+  height: 242px;
+  position: absolute;
+  right: 295px;
+  top: 350px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-8 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-8 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-8 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-8 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-9 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  cursor: pointer;
+  right: 499px;
+  top: 350px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-9 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-9 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-9 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-9 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-10 {
+  width: 201px;
+  cursor: pointer;
+  height: 242px;
+  position: absolute;
+  right: 701px;
+  top: 350px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-10 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-10 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-10 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-10 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-11 {
+  width: 201px;
+  cursor: pointer;
+  height: 242px;
+  position: absolute;
+  right: 904px;
+  top: 350px;
+  border-left: 1px solid rgb(224, 224, 226);
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-11 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-11 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-11 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-11 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-12 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 1106px;
+  top: 350px;
+  cursor: pointer;
+  border-bottom: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-12 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-12 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-12 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-12 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-13 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  cursor: pointer;
+  right: 96px;
+  top: 595px;
+  border-left: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-13 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-13 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-13 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-13 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-14 {
+  width: 201px;
+  height: 242px;
+  cursor: pointer;
+  position: absolute;
+  right: 296px;
+  top: 595px;
+  border-left: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-14 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-14 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-14 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-14 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+.products-2 .product-2 .item-2-15 {
+  width: 201px;
+  height: 242px;
+  cursor: pointer;
+  position: absolute;
+  right: 499px;
+  top: 595px;
+  border-left: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-15 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-15 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-15 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-15 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-16 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 702px;
+  top: 595px;
+  cursor: pointer;
+  border-left: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-16 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-16 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-16 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-16 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-17 {
+  width: 201px;
+  height: 242px;
+  position: absolute;
+  right: 903px;
+  cursor: pointer;
+  top: 595px;
+  border-left: 1px solid rgb(224, 224, 226);
+}
+.products-2 .product-2 .item-2-17 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-17 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-17 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-17 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
+
+.products-2 .product-2 .item-2-18 {
+  width: 201px;
+  height: 242px;
+  cursor: pointer;
+  position: absolute;
+  right: 1109px;
+  top: 595px;
+}
+.products-2 .product-2 .item-2-18 img {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  right: 15px;
+}
+.products-2 .product-2 .item-2-18 p {
+  position: absolute;
+  right: 95px;
+  bottom: 55px;
+  color: rgb(63, 64, 100);
+  font-family: yekan;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.products-2 .product-2 .item-2-18 .red-discount {
+  background-color: rgb(211, 47, 47);
+  width: 34px;
+  height: 20px;
+  color: aliceblue;
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 700;
+  border-radius: 16px;
+  position: absolute;
+  bottom: 55px;
+}
+.products-2 .product-2 .item-2-18 p.line {
+  font-size: 12px;
+  font-family: yekan;
+  font-weight: 400;
+  color: rgb(192, 194, 197);
+  position: absolute;
+  bottom: 15px;
+  left: 0;
+  text-decoration: line-through;
+}
